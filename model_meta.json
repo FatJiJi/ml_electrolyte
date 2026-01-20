@@ -1,0 +1,7 @@
+{
+  "model": "FNN",
+  "fingerprint": "Morgan",
+  "n_bits": 1024,
+  "input_dim": 2049,
+  "target": "k (mS/cm)"
+}
